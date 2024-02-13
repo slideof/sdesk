@@ -1,4 +1,4 @@
-create procedure insert_data(IN a integer, IN b integer)
+create procedure insert_data()
     language sql
 as
 $$
