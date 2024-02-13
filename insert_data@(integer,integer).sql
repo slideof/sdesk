@@ -4,7 +4,7 @@ as
 $$
 UPDATE first_table
 SET name = 'test_1'
-WHERE id = 3;
+WHERE id = 4;
 $$;
 
 alter procedure insert_data(integer, integer) owner to postgres;
